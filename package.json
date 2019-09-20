@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "name": "hapijs-introduction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "18.4.0",
+    "@hapi/joi": "^16.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
